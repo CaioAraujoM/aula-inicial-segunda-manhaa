@@ -1,0 +1,23 @@
+h1{
+    color:blue;
+}
+
+h2{
+    color: pink;
+}
+table{
+    background-color:darkorange
+}
+th{
+    background-color: gray;
+}
+td{
+    color: yellowgreen;
+}
+ul{
+ background-color: orangered;
+}
+ol{
+    background-color: royalblue;
+    width: 50vw;  /*responsividade*/
+}
